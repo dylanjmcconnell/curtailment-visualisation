@@ -1,0 +1,5 @@
+- root/
+  - file.txt
+  - folder/
+    - file2.txt
+    - file3.txt    
